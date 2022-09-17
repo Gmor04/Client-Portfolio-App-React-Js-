@@ -1,0 +1,60 @@
+.headd{
+    background-size: contain;
+    background-repeat: repeat-x;
+    background-color: rgba(0, 0, 0, 0.174);
+    background-blend-mode:overlay;
+ 
+ }
+ .ohh{
+     font-size: 25px;
+     font-weight: 600;
+ 
+ }
+ .soddi{
+     font-size: 16px;
+     font-weight: 400;
+     /* padding-top: 2%; */
+ }
+ .exp{
+     font-size: 20px;
+     font-weight: 500;
+ }
+ .resumm{
+     font-size: 18px;
+     font-weight: 400;
+     text-decoration: underline;
+ }
+ .resumm a {
+     text-decoration: none !important;
+     color: white;
+ }
+ .resumm a:hover {
+     text-decoration: none !important;
+     color: #D0C19A;
+ }
+ 
+ .eptt{
+     background-color: rgba(255, 255, 255, 0.103);
+ }
+ .dott{
+     color: lightgray;
+     font-size: 10px;
+ }
+ .grap{
+     font-size: 18px;
+     font-weight: 500;
+     color: white;
+ }
+ .grapp{
+     font-size: 15px;
+     font-weight: 400;
+     color: white;
+ }
+ .easty{
+     font-size: 15px;
+     color: white;
+     font-weight: 400;
+ }
+ .outt{
+     font-size: 15px;
+ }

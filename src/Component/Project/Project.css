@@ -1,0 +1,26 @@
+.here{
+    font-size: 25px;
+    font-weight: 400;
+    color: lightgray;
+    padding-top: 2%;
+ }
+ .mywor{
+     color: #4F4A3B;
+     font-size: 22px;
+     font-weight: 600; 
+ }
+ .webapp{
+     width: fit-content;
+     background-color: rgba(211, 211, 211, 0.493);
+     font-size: 15px;
+ }
+ .manage{
+     font-size: 32px;
+     font-weight: 600;
+ 
+ }
+ .view{
+     font-size: 18px;
+     text-decoration: underline;
+     font-weight: 500;
+ }
